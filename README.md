@@ -1,5 +1,5 @@
 # متجر إلكتروني بلارافل
-![Laravel Version](https://img.shields.io/badge/Laravel-10.x-orange)
+![Laravel Version](https://drive.google.com/file/d/1C2a234_2myCJ89gsscarH727xY6RXOzK/view?usp=drivesdk)
 ![PHP Version](https://img.shields.io/badge/PHP-8.1%2B-blue)
 
 مشروع متجر إلكتروني متكامل مبني بإطار العمل Laravel مع واجهة إدارية متقدمة.
